@@ -18,16 +18,14 @@ Choosing the right academic path is one of the most critical decisions for stude
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+The system works as follows:
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+* Data Input: Students input their grades, skills, interests, and future aspirations through a web or mobile interface.
+* Analysis: The AI analyzes their data and matches it with profiles of successful individuals, career trends, and academic requirements.
+* Recommendations: The system suggests potential academic paths and career options, providing reasoning and resources for each recommendation.
+![AI School Orientation](images/AI.webp)
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-
-This is how you create code examples:
+This is how you create code :
 ```
 def recommend_academic_path(grades, interests):
     """
@@ -111,7 +109,7 @@ Expanding language support to make the system globally accessible.
 
 * Inspired by my interest in education and AI.
 * Special thanks to educators and mentors who provided insights into student counseling challenges.
- [image of Smart School Orientation System](/Smart School Orientation System_AI.webp)
+ 
 
 
 
